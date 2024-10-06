@@ -1,0 +1,2 @@
+MacroModel pin acc_reg[8]/CK  34.90ps 34.90ps 34.90ps 34.90ps 0pf func_default
+MacroModel pin acc_reg[9]/CK  36.00ps 36.00ps 36.00ps 36.00ps 0pf func_default
